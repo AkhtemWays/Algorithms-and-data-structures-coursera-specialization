@@ -11,7 +11,7 @@
 # program and the optimal value should be at most 10**−6. To ensure this, output your answer with at least seven digits after the
 # decimal point (otherwise your answer, while being computed correctly, can turn out to be wrong because of rounding issues).
 
-# The following problem solved using disjoint sets and it's properties
+# The following problem solved using Kruskal's algorithm
 # The program returns the shortest distance to build the roads and the optimal distance edges with 0-based indexing
 # Sample 1: Input: 5
 #                  0 0
