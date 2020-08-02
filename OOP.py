@@ -1,4 +1,6 @@
 import datetime
+
+# OOP stuff who wants to know more
 class Employee:
     raise_amt = 1.04
     num_of_emps = 0

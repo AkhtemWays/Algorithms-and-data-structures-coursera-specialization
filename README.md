@@ -1,2 +1,5 @@
-# Algorithms-and-data-structures-coursera-specialization
-This repository reflects my journey through a set of algorithms and data structures courses
+## This repo showcases my path through
+
+## Algorithms and Data Structures taken from
+
+## Algorithms and data structures coursera specialization
